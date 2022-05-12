@@ -1,7 +1,7 @@
 # Homework_4_Converting-Types
 Д/з: Converting types
 
-<a href="https://gist.github.com/SlavikArt/0296289188a0eb5e979ef677b9c8f5c7">Gist - страница со всеми кодами проектов</a>
+<a href="https://gist.github.com/SlavikArt/5feab4d43a03c079d5bfb4b58478b69f">Gist - страница со всеми кодами проектов</a>
 
 * [Sum_Of_Int_And_Float_Parts](Sum_Of_Int_And_Float_Parts)
 * [Calculate_Speed](Calculate_Speed)
